@@ -1,6 +1,6 @@
 ### Hi there I'm Aman Dutt - aka [ADGAMERX][linkedin]👋
-[![Website](https://img.shields.io/website?label=ADGAMERX&style=for-the-badge&url=https%3A%2F%2Fadgamerx7.blogspot.com%2F)]([https://adgamerx7.blogspot.com/](https://adgamerx7.blogspot.com/) "Visit My Blog")
-[![Twitter Follow](https://img.shields.io/twitter/follow/adgamerx7?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadgamerx7&screen_name=adgamerx7)
+[![Website](https://img.shields.io/website?label=ADGAMERX&style=for-the-badge&url=https%3A%2F%2Fshrm.dev%2F)]([https://shrm.dev/](https://shrm.dev/) "Visit My Blog")
+[![Twitter Follow](https://img.shields.io/twitter/follow/AmanWhoCode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadgamerx7&screen_name=AmanWhoCode)
 
 ## I'm a Coder, Designer and a Gamer !!
 - 🔭 I’m currently working on _Chrome Extensions_
