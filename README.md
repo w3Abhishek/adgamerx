@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 
 ### Github Stats 📈
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adgamerx&layout=compact&theme=radical) <img src="https://github-readme-stats.vercel.app/api?username=adgamerx&show_icons=true&theme=radical">
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adgamerx&layout=compact&theme=radical)
 
-[website]: https://www.adgamerx.gq/
-[twitter]: https://twitter.com/adgamerx7
+[website]: https://www.shrm.dev/
+[twitter]: https://twitter.com/AmanWhoCode
 [youtube]: https://youtube.com/amandutt
 [instagram]: https://instagram.com/adgamerx
 [linkedin]: https://www.linkedin.com/in/adgamerx/
